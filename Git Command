@@ -1,0 +1,37 @@
+git branch <Task_id>
+git checkout <Task_id>
+git status
+git add -A/<file_name
+git commit -m "Summary Comment"
+git push origin <Task_id>
+gh pr create -t "Summary Comment"
+press e
+"Detailed Change Description"
+ctrl+o, enter, ctrl+x
+Submit
+copy paste the link for review
+git checkout master
+git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git restore -S <For resture the files
+
+
+
+gh pr create -t "Change for class"
+
