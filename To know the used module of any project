@@ -1,1 +1,6 @@
 pip freeze > requirements.txt
+
+
+TO show all of them in the terminal
+
+pip list
